@@ -8,7 +8,7 @@
 
  ## 💻 Tech Stack:
 
- ![programação](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+ ![img](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
  ![programação](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
  ![programação](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
  ![programação](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
