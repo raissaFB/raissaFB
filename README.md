@@ -1,6 +1,4 @@
 ## Olá, Eu sou a Raissa Feitosa
-   Estudante de Back-end,
-   linguagens:  java, phyton, Rstudio, HTML e css.
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raissaFB&show_icons=true&theme=radical)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raissaFB&layout=compact&theme=radical)
@@ -15,5 +13,11 @@
  ![programação](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
  ![programação](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
  ![programação](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+## Sobre mim: 
+Tenho 18 anos e sou uma estudante dedicada e apaixonada pelo mundo da programação. Estou constantemente ampliando meus conhecimentos através de cursos, onde me destaco em diversas linguagens de programação. Meu portfólio inclui habilidades em Java, Python, RStudio, HTML e CSS, o que demonstra minha versatilidade tanto em front-end quanto em back-end.
+   
+
+
 
   
